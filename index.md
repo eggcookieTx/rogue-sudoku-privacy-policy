@@ -26,12 +26,13 @@ If you have any questions about this Privacy Policy, you can contact us at the e
 
 We collect the following types of information when you use Rogue Sudoku:
 
-### 2.1 Personal Information
+### 2.1 Player Identity
 
-Collected when you create an account or sign in:
+Collected through platform game services:
 
-- Display name (auto-generated or user-chosen)
-- Email address (if signed in via Google or Apple)
+- Display name / alias (via Google Play Games or Apple Game Center)
+
+We do **not** collect email addresses, passwords, or other personal account information. No account creation or sign-in is required.
 
 ### 2.2 Gameplay Data
 
@@ -89,7 +90,6 @@ We use the following third-party services:
 
 ### 5.1 Google Firebase
 
-- **Firebase Authentication** — Account creation and sign-in (Google, Apple)
 - **Cloud Firestore** — Storage of gameplay data, leaderboards, and achievements
 - **Firebase App Check** — App integrity verification
 - **Firebase Analytics** — Anonymous usage analytics and crash reporting
@@ -129,7 +129,7 @@ We use Firebase Analytics to understand how the App is used. This includes:
 
 ## 7. Data Retention
 
-- **Account data & game history:** Retained while your account is active
+- **Game history & progress:** Retained while you use the App
 - **Leaderboard data:** Retained for the duration of each season, then archived
 - **Logs & analytics:** Retention period varies by provider (typically 60–90 days for crash logs)
 
@@ -167,13 +167,13 @@ To exercise these rights, contact us at **service@digitaltwinsapps.com**.
 
 ---
 
-## 11. How to Delete Your Rogue Sudoku Account
+## 11. How to Delete Your Data
 
-To request account and data deletion:
+To request deletion of your gameplay data:
 
 1. Send an email to **service@digitaltwinsapps.com**
-2. Use the subject line: **"Rogue Sudoku account deletion request"**
-3. Include the email address associated with your account
+2. Use the subject line: **"Rogue Sudoku data deletion request"**
+3. Include your player display name and platform (Android/iOS)
 
 We will process your request and delete your data within **30 days**.
 
